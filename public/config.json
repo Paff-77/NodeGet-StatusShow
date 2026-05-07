@@ -6,7 +6,7 @@
     {
       "name": "master server node 1",
       "backend_url": "wss://nodegetapi.kirino.de",
-      "token": "0OoE1MpCFRztP8Xi9nxXhZqormAKomLU"
+      "token": "kBVPyIIWdspBoHgA:0OoE1MpCFRztP8Xi9nxXhZqormAKomLU"
     }
   ]
 }
