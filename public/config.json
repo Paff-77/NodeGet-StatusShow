@@ -5,8 +5,8 @@
   "site_tokens": [
     {
       "name": "master server node 1",
-      "backend_url": "wss://nodegetapi.kirino.de",
-      "token": "kBVPyIIWdspBoHgA:0OoE1MpCFRztP8Xi9nxXhZqormAKomLU"
+      "backend_url": "",
+      "token": ""
     }
   ]
 }
